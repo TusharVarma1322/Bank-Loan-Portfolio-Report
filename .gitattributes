@@ -1,0 +1,2 @@
+# Override language detection for SQL files
+*.sql linguist-language=MySQL
