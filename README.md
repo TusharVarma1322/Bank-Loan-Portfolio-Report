@@ -6,7 +6,7 @@
 
 > ⚠️ **Note:** Dashboard preview image coming soon! 
 
-## 📋 Table of Contents
+## 📋 Table of Contents:
 - [Project Overview](#-project-overview)
 - [Business Questions](#-business-questions)
 - [Dataset Description](#-dataset-description)
