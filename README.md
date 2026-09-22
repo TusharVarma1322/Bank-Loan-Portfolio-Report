@@ -21,7 +21,7 @@
 
 ---
 
-## 🎯 Project Overview
+## 🎯 Project Overview:
 
 This project provides a comprehensive analysis of **consumer credit risk and loan portfolio health** for a financial institution. The goal is to monitor loan performance, assess credit risk, and track key financial KPIs to support data-driven decision making.
 
