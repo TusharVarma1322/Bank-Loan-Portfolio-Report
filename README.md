@@ -29,7 +29,7 @@ This project provides a comprehensive analysis of **consumer credit risk and loa
 
 ---
 
-## ❓ Business Questions
+## ❓ Business Questions:
 
 This analysis answers the following critical business questions:
 
