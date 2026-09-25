@@ -92,7 +92,7 @@ The analysis uses a single comprehensive table:
 
 ---
 
-## 🔬 Methodology
+## 🔬 Methodology:
 
 ### Approach Overview
 
