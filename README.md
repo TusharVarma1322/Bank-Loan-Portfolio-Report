@@ -141,7 +141,7 @@ The analysis uses a single comprehensive table:
 
 ---
 
-## 💻 SQL Solution Approach
+## 💻 SQL Solution Approach:
 
 ### Report A: Overall KPIs
 
