@@ -235,7 +235,7 @@ ORDER BY m.issue_month_start;
 
 ---
 
-## 📈 Results
+## 📈 Results:
 
 <p align="center">
   <img src="images/results_overview.png" alt="Results Overview" width="800">
