@@ -265,7 +265,7 @@ ORDER BY m.issue_month_start;
 
 ---
 
-## 💡 Key Insights & Interpretation
+## 💡 Key Insights & Interpretation:
 
 ### 1. Portfolio Quality Analysis
 
