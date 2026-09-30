@@ -74,7 +74,7 @@ The analysis uses a single comprehensive table:
 | `grade` | VARCHAR | Loan grade (A-G) |
 | `sub_grade` | VARCHAR | Loan subgrade (A1-G5) |
 
-### Loan Status Classification
+### Loan Status Classification:
 
 ```
 ┌─────────────────────────────────────────────────────────┐
