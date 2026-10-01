@@ -318,7 +318,7 @@ Grade G ──► Highest Interest Rate (Highest Risk)
 
 ---
 
-## 🛠️ Technical Skills Demonstrated
+## 🛠️ Technical Skills Demonstrated:
 
 | Category | Skills |
 |----------|--------|
