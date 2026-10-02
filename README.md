@@ -334,7 +334,7 @@ Grade G ──► Highest Interest Rate (Highest Risk)
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure:
 
 ```
 Bank-Loan-Portfolio-Report/
