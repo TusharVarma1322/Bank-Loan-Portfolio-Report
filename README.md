@@ -399,7 +399,7 @@ Bank-Loan-Portfolio-Report/
 
 ---
 
-## 📚 What I Learned
+## 📚 What I Learned:
 
 1. **Complex SQL Aggregations** - Multi-dimensional analysis with GROUP BY
 2. **Dynamic Date Handling** - Using variables for MTD/PMTD calculations
