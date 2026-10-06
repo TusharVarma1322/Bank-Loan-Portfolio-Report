@@ -388,7 +388,7 @@ Bank-Loan-Portfolio-Report/
 
 ---
 
-## 🔜 Future Improvements
+## 🔜 Future Improvements:
 
 - [ ] **Add Dashboard Images:** Include screenshots of results and visualizations
 - [ ] **Python Integration:** Add pandas analysis for additional statistics
