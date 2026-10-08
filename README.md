@@ -410,7 +410,7 @@ Bank-Loan-Portfolio-Report/
 
 ---
 
-## 👤 Author
+## 👤 Author:
 
 **Tushar Varma**
 - GitHub: [@TusharVarma1322](https://github.com/TusharVarma1322)
