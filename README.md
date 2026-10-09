@@ -357,7 +357,7 @@ Bank-Loan-Portfolio-Report/
 
 ---
 
-## 🚀 How to Run:
+## 🚀 How to Run:-
 
 ### Prerequisites
 - MySQL Server 8.0+
